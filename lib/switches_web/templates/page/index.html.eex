@@ -1,0 +1,24 @@
+<span class="toggle">
+    <input type="checkbox" data-id="1">
+    <label data-off="off" data-on="on"></label>
+</span>
+
+<span class="toggle">
+    <input type="checkbox" data-id="2">
+    <label data-off="off" data-on="on"></label>
+</span>
+
+<span class="toggle">
+    <input type="checkbox" data-id="3">
+    <label data-off="off" data-on="on"></label>
+</span>
+
+<span class="toggle">
+    <input type="checkbox" data-id="4">
+    <label data-off="off" data-on="on"></label>
+</span>
+
+<span class="toggle">
+    <input type="checkbox" data-id="5">
+    <label data-off="off" data-on="on"></label>
+</span>
